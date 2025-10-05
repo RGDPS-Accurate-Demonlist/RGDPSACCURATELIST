@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 75" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -100,10 +100,13 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The video requires you to include: CPS Counter, Attempt Counter, Cheat Indicator, FPS Counter and (if run is made on noclip) Noclip Accuracy counter.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 240 FPS)
+                    </p>
+                    <p>
+                        Achieved the record on the level that is listed on the site
                     </p>
                     <p>
                         Have either source audio or clicks/taps in the video. Edited audio only does not count
@@ -122,6 +125,9 @@ export default {
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                    </p>
+                    <p>
+                    CBF is allowed due to many people using it.
                     </p>
                 </div>
             </div>
