@@ -1,11 +1,11 @@
 {
     "id": 41644,
     "name": "hight voltage",
-    "author": "doktoriam (publisher - exotium)",
-    "creators": ["Gizzybg", "HappyCatGD", "supra"],
-    "verifier": "also LikelyDash2",
+    "author": "exotium",
+    "creators": ["doktoriam", "exotium", "prusakov yaroslav", "popugauchegg", "irongirls", "vandervals", "opman360pro"],
+    "verifier": "exotium",
     "verification": "https://youtu.be/QB5j2XrcDcw?si=hrAuFSseLljTWtJf",
-    "percentToQualify": 41,
+    "percentToQualify": 47,
     "records": [
     ]
 }
