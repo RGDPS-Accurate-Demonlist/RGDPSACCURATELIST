@@ -1,11 +1,17 @@
 {
-    "id": 41641,
-    "name": "come as you are",
-    "author": "exotium",
-    "creators": [],
-    "verifier": "Creator of the level (exotium)",
-    "verification": "https://youtu.be/X-B0Dr5Y9c4?si=PMBJ3T9A7c_Syr2D",
-    "percentToQualify": "36",
+    "id": 57436521,
+    "name": "SampleLevel1",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Verifier",
+    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
+    "percentToQualify": 56,
     "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
     ]
 }
