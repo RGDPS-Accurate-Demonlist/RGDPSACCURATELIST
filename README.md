@@ -6,6 +6,7 @@ Yeah... nothing else to say. It's just a demonlist, okay? Yeah... bye!
 Thanks to:
 - Prometheus
 - Emonadeo
+
 for making the list template ;-;
 
 RGDPS PLATFORMER DEMONLIST IS WIP FOR NOW!
