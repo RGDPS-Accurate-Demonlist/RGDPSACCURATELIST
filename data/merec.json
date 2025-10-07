@@ -7,5 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=HmKmpvT5T0w",
     "percentToQualify": "95",
     "records": [
+                   {
+            "user": "JohnRedGD",
+            "link": "https://youtu.be/RBLxg-deSDE?si=CDNb7NQ4EwT3Oq1T"
+            "percent": 100,
+            "hz": 60
+                   }
     ]
+
 }
