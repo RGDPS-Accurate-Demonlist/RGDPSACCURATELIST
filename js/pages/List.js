@@ -100,7 +100,19 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        The video requires you to include: CPS Counter, Attempt Counter, Cheat Indicator, FPS Counter and (if run is made on noclip) Noclip Accuracy counter.
+                        The video requires you to include: CPS Counter, Attempt Counter, Cheat Indicator, Session Time counter (not necessary, but adds more legitimacy to the run), Run from label (if playing on StartPos), FPS Counter and (if run is made on noclip) Noclip Accuracy and Noclip Deaths counter.
+                    </p>
+                    <p>
+                        The video quality has to be between 480p to 720p and between 40 to 60 FPS.
+                    </p>
+                    <p>
+                        The user also HAS to include ALL the attempts (including copies).
+                    </p>
+                    <p>
+                        The video REQUIRES a microphone usage. It may not be required after the user proves that he can't use it or if he shows all the progress on the level.
+                    </p>
+                    <p>
+                        Allowed FPS values stand between 30 to 240 FPS.
                     </p>
                     <p>
                         Achieved the record without using hacks (however, FPS bypass is allowed, up to 240 FPS)
@@ -121,13 +133,43 @@ export default {
                         Do not use secret routes or bug routes
                     </p>
                     <p>
+                        The record can be also accepted in these uncommon cases: If the user does a practice run from 0%; If the user does a NoClip run from 0% with 100% accuracy and 0 deaths; If the user does a StartPos run from 0% or on 0th StartPos.
+                    </p>
+                    <p>
                         Do not use easy modes, only a record of the unmodified level qualifies
                     </p>
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                    CBF is allowed due to many people using it.
+                        CBF is allowed due to many people using it.
+                    </p>
+                    <p>
+                        If the record is played on Vanilla RGDPS, then it HAS to be said either in the video description or contact the moderator/owner.
+                    </p>
+                    <p>
+                        Record requires both raw, unedited version and edited version (excluding the records that are legitimate or old ones). Both video versions HAVE to be posted only on YouTube or through Google Drive.
+                    </p>
+                    <p>
+                        Copies (ULDM and StartPos versions) are allowed, but ONLY after they get accepted by owner or moderator. Questions about copies can be asked in our Discord Server!
+                    </p>
+                    <p>
+                        All the record submissions take from 1 hour to 7 days. If the wait time is longer then it means we're not sure of the legitimacy of the level and we need to talk it over. The maximum wait time is 14 days. If the record doesn't get accepted in this time then it means it hasn't been accepted. We'll inform you on Discord.
+                    </p>
+                    <p>
+                        If the record has been proven illegitimate (while verifying it or after it gets accepted), the user gets one warning (and the record gets taken off if it was already accepted). You can find the warned user list on our Discord server!
+                    </p>
+                    <p>
+                        Trolling (Sending purposefully hacked videos), spam submitting records, demanding to speed-up the submission process, etc. will result in a timed ban from submitting (from 1 to 7 days; the ban means that you can see the list and "submit" the record, but it's going to get INSTANTLY rejected).
+                    </p>
+                    <p>
+                        The video (if proven hacked) may be sent to RGDPS moderators, what might result in your RGDPS account getting banned.
+                    </p>
+                    <p>
+                        Breaking any rule will result in a punishment.
+                    </p>
+                    <p>
+                        If you have any additional questions or concerns regarding the record submission - contact us in our Discord server!
                     </p>
                 </div>
             </div>
