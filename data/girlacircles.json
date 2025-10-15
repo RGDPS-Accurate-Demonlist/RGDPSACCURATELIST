@@ -12,8 +12,15 @@
             "link": "https://youtu.be/zLhN4VzKjPQ?si=WCEbICqOhFEVKIzO",
             "percent": 100,
             "hz": 60
-                   }
+                   },
+                       {
+            "user": "Gazrael",
+            "link": "https://www.youtube.com/watch?v=1tSUtwaBC7A",
+            "percent": 100,
+            "hz": 360
+                       }
     ]
 
 }
+
 
