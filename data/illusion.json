@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/oQdZvCUHFKw?si=jeQNabpQDyuYIWzG",
     "percentToQualify": "55",
     "records": [
+                   {
+            "user": "Gazrael",
+            "link": "https://www.youtube.com/watch?v=dwhRlfd6NyM",
+            "percent": 100,
+            "hz": 360
+                   }
     ]
 }
